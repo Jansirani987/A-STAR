@@ -266,3 +266,7 @@ G 0 <br>
 
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+
+RESULT:
+Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully
